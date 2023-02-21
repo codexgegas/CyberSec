@@ -108,7 +108,7 @@ This repository provides a list of platforms that can be used to learn and pract
 
 ## Hacking-Lab
 
--  
+
   
 
 [Hacking-Lab](https://www.hacking-lab.com/) is a platform that provides virtual machines for practicing and learning cybersecurity skills. The platform offers various levels of challenges, covering various cybersecurity topics such as web application security, network security, and reverse engineering. Hacking-Lab offers both free and paid plans.
@@ -135,7 +135,7 @@ This repository provides a list of platforms that can be used to learn and pract
 
 ## W3Challs
 
-  -
+  
 
   
 
